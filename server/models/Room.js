@@ -1,5 +1,5 @@
 
-class Game {
+class Room {
   constructor (id, name, owner) {
     this.name = name
     this.owner = owner || undefined
@@ -8,4 +8,4 @@ class Game {
   }
 }
 
-module.exports = Game
+module.exports = Room

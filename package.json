@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "npx nodemon --exec babel-node backend/index.js"
+    "watch": "npx nodemon --exec babel-node server/index.js"
   },
   "author": "Minota",
   "license": "GPL-3.0",
